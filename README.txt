@@ -8,7 +8,7 @@ GNU General Public License v3.0
 
 Contact: mathilde.jutras@mail.mcgill.ca or mjutras19@gmail.com
 
-Please cite using the following DOI:
+Please cite using the following DOI: 10.5281/zenodo.10497415
 --------------------------------------------------------------------------------
 
 Here are the instructions on how to run the k-means clustering scripts
