@@ -17,3 +17,5 @@ Here are the instructions on how to run the k-means clustering scripts
 2. If using a kernelized PCA, follow the instructions and run Script_supercomputer.py on a supercomputer.
 3. Run Script_application_all_data.py
 4. Run the scripts for the different figures
+
+Script Parcels_continuousseed_split_trackprop.py can be used to generate the Lagrangian trajectories.
